@@ -1,5 +1,5 @@
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&center=true&vCenter=true&multiline=true&width=800&height=80&lines=Practice+is+the+only+criterion+for+testing+truth)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&center=true&vCenter=true&multiline=true&width=800&height=80&lines=It+doesn't+matter)](https://git.io/typing-svg)
 
 ![C/C++](https://img.shields.io/badge/-C/C++-00599C?style=flat-square&logo=c&logoColor=FFFFFF)
 ![GO](https://img.shields.io/badge/-GO-0041d8?style=flat-square&logo=go&logoColor=FFFFFF)
